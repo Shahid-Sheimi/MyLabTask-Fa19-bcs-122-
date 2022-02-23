@@ -1,0 +1,2 @@
+/* var vall = [1, 2, 34, 5];
+console.log(vall.indexOf(34));

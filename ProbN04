@@ -1,0 +1,11 @@
+var vall2 = [2, 3, 6, 1, 7];
+rev = vall2.reverse();
+console.log(rev);
+
+for (i = 0; i < vall2.length; i++) {
+    sqaure1 = vall2[i] * 2;
+    console.log(sqaure1);
+    cube1 = vall2[i] * 3;
+    console.log(cube1);
+
+}

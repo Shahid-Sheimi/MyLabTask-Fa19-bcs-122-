@@ -1,0 +1,13 @@
+var str = "eagheer";
+for (i = 0; i < str.length; i++) {
+    console.log(str[0])
+    if (str[0] == 'a' || 'e' || 'i' || 'o' || 'u') {
+        console.log("Vovel");
+        break
+
+
+    } else {
+        console.log("consonent");
+
+    }
+}
